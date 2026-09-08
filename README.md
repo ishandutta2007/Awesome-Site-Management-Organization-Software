@@ -44,51 +44,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[RealTime CTMS](https://realtime-ctms.com/)**  
-
-  Clinical trial management system built specifically for research sites and site networks, covering recruitment, scheduling, visit tracking, and site financial workflows.
-
-
-
-- **[Clinical Conductor / Advarra CTMS](https://www.advarra.com/)**  
-
-  Site- and academic-focused CTMS solutions (including Clinical Conductor and OnCore) for protocol management, subjects, staffing, financials, and research operations.
-
-
-
-- **[Florence eBinders](https://www.florencehc.com/)**  
-
-  Leading electronic investigator site file (eISF) / eRegulatory platform used by thousands of research teams for document management and inspection readiness.
-
-
-
-- **[Veeva SiteVault](https://www.veeva.com/)**  
-
-  Site-centric platform from Veeva that includes eISF capabilities and SiteVault CTMS for protocol, visit, and financial management, connected to the broader Veeva clinical ecosystem.
-
-
-
-- **[SimpleTrials](https://www.simpletrials.com/)**  
-
-  Accessible CTMS designed for smaller research organizations and sites needing core study and site management features.
-
-
-
-- **[Complion](https://www.complion.com/)**  
-
-  eRegulatory and compliance platform focused on investigator site file management and audit readiness.
-
-
-
-- **[Trial Interactive, CRIO, EDGE CTMS](https://www.trialinteractive.com/)**  
-
-  Additional site and trial management solutions covering document management, site operations, and clinical research workflows.
-
-
-
-- **[Other site & eISF platforms](https://www.advarra.com/)**  
-
-  Tools from sponsors, CROs, and specialists that support site activation, monitoring, payments, and regulatory document exchange.
+| Platform / Product | Description | Specific Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[RealTime CTMS](https://realtime-ctms.com/)** | Clinical trial management system built for research sites and networks, covering recruitment, scheduling, visit tracking, and site financials. | Starts at $500/month for core site operations tier | No free plan or free trial; offers live interactive product demos upon request |
+| **[Clinical Conductor / Advarra CTMS](https://www.advarra.com/)** | Site- and academic-focused CTMS solutions (including Clinical Conductor & OnCore) for protocol management, subjects, staffing, and financials. | Starts at $25/user/month (or $1,000/month site license starting tier) | No free plan; provides a 14-day evaluation demo sandbox upon request |
+| **[Florence eBinders](https://www.florencehc.com/)** | Electronic investigator site file (eISF) and eRegulatory platform used for regulatory document management and inspection readiness. | Starts at $1,200/study setup (plus ~$100/month maintenance fee for industry studies) | No free plan or free trial; provides interactive guided product demos upon request |
+| **[Veeva SiteVault](https://sites.veeva.com/)** | Site-centric platform including eISF, CTMS, eConsent, and eSource for protocol, visit, and financial management. | $0/month for SiteVault Free tier (Enterprise edition starts at $10,000/year for >20 active studies) | Free forever plan available for sites managing up to 20 concurrent active studies (unlimited users and storage) |
+| **[SimpleTrials](https://www.simpletrials.com/)** | Accessible subscription-based CTMS designed for smaller research organizations and sites needing core study and site management. | Starts at $599/month (Standard subscription plan, month-to-month) | No free forever plan; offers a 30-day "Test Drive" evaluation environment for a $49 one-time fee |
+| **[Complion](https://www.complion.com/)** | eRegulatory and compliance platform focused on investigator site file management, audit readiness, and automated workflows. | Starts at $500/month (or bundled with RealTime eClinical suite) | No free plan or free trial; provides interactive guided product demos upon request |
+| **[Trial Interactive](https://www.trialinteractive.com/)** | Enterprise eClinical platform covering eTMF, CTMS, site document management, and regulatory workflows. | Starts at $1,500/month (or $18,000/year base tier for site document management) | No free plan or free trial; provides 30-day sandbox demo access for evaluating sites |
+| **[CRIO (Clinical Research IO)](https://clinicalresearch.io/)** | Integrated eSource, eRegulatory, and CTMS platform for site data capture, patient stipend management, and study workflows. | Starts at $200/month (per base module starting tier) | No free plan or free trial; provides guided interactive site demos upon request |
+| **[EDGE CTMS](https://edgeclinical.com/)** | Research management platform used by clinical research networks and sites for participant tracking and trial administration. | Starts at £1,000/year (~$1,300/year base tier) | No free plan; provides access to a pre-configured DEMO sandbox environment for site testing |
 
 
 
