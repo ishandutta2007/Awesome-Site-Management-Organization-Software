@@ -55,31 +55,31 @@ Clinical research site operations rely heavily on validated software ecosystems 
 
 *High-quality open-source tools for clinical research data capture, CTMS, eCRF, and regulatory compliance. Listed in descending order of GitHub stargazers:*
 
-1. **[openemr/openemr](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) 🩺  
+1. **[openemr/openemr](https://github.com/openemr/openemr)** [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) 🩺  
    Widely adopted open-source EHR and practice management system adapted by research sites for participant scheduling, clinical documentation, and trial patient management.
 
-2. **[OpenClinica/OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers) 📊  
+2. **[OpenClinica/OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers) 📊  
    Pioneer open-source clinical data management and Electronic Data Capture (EDC) system for multi-center clinical trials and academic studies.
 
-3. **[OHDSI/Atlas](https://github.com/OHDSI/Atlas)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers) 🌐  
+3. **[OHDSI/Atlas](https://github.com/OHDSI/Atlas)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers) 🌐  
    Open-source web platform for clinical research cohort definition, observational health data analytics, and trial feasibility analysis across OMOP CDM databases.
 
-4. **[redcap-tools/pycap](https://github.com/redcap-tools/pycap)** [![GitHub stars](https://img.shields.io/github/stars/redcap-tools/pycap?style=social&color=white)](https://github.com/redcap-tools/pycap/stargazers) 🐍  
+4. **[redcap-tools/pycap](https://github.com/redcap-tools/pycap)** [![GitHub_Stars](https://img.shields.io/github/stars/redcap-tools/pycap?style=social&color=white)](https://github.com/redcap-tools/pycap/stargazers) 🐍  
    Python API interface for REDCap, enabling automated clinical trial data extraction, participant management, and eCRF data synchronization.
 
-5. **[phoenixctms/ctsms](https://github.com/phoenixctms/ctsms)** [![GitHub stars](https://img.shields.io/github/stars/phoenixctms/ctsms?style=social&color=white)](https://github.com/phoenixctms/ctsms/stargazers) 🦅  
+5. **[phoenixctms/ctsms](https://github.com/phoenixctms/ctsms)** [![GitHub_Stars](https://img.shields.io/github/stars/phoenixctms/ctsms?style=social&color=white)](https://github.com/phoenixctms/ctsms/stargazers) 🦅  
    Comprehensive open-source CTMS/PRS/CDMS platform combining patient recruitment, clinical trial management, and clinical data management for hospitals and CROs.
 
-6. **[reliatec-gmbh/LibreClinica](https://github.com/reliatec-gmbh/LibreClinica)** [![GitHub stars](https://img.shields.io/github/stars/reliatec-gmbh/LibreClinica?style=social&color=white)](https://github.com/reliatec-gmbh/LibreClinica/stargazers) 🔓  
+6. **[reliatec-gmbh/LibreClinica](https://github.com/reliatec-gmbh/LibreClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/reliatec-gmbh/LibreClinica?style=social&color=white)](https://github.com/reliatec-gmbh/LibreClinica/stargazers) 🔓  
    Community-driven open-source clinical research EDC platform descended from OpenClinica 3.x with updated compliance and security standards.
 
-7. **[clinicedc/edc](https://github.com/clinicedc/edc)** [![GitHub stars](https://img.shields.io/github/stars/clinicedc/edc?style=social&color=white)](https://github.com/clinicedc/edc/stargazers) ⚡  
+7. **[clinicedc/edc](https://github.com/clinicedc/edc)** [![GitHub_Stars](https://img.shields.io/github/stars/clinicedc/edc?style=social&color=white)](https://github.com/clinicedc/edc/stargazers) ⚡  
    Django-based open-source framework for building multisite longitudinal clinical trial data management, eSource, and eCRF systems.
 
-8. **[MeyerThorsten/QAtrial](https://github.com/MeyerThorsten/QAtrial)** [![GitHub stars](https://img.shields.io/github/stars/MeyerThorsten/QAtrial?style=social&color=white)](https://github.com/MeyerThorsten/QAtrial/stargazers) 🛡️  
+8. **[MeyerThorsten/QAtrial](https://github.com/MeyerThorsten/QAtrial)** [![GitHub_Stars](https://img.shields.io/github/stars/MeyerThorsten/QAtrial?style=social&color=white)](https://github.com/MeyerThorsten/QAtrial/stargazers) 🛡️  
    Open-source quality and regulated-workspace platform featuring eTMF, eConsent, CAPA, and GxP compliance tools for clinical research quality workflows.
 
-9. **[ecs-org/ecs](https://github.com/ecs-org/ecs)** [![GitHub stars](https://img.shields.io/github/stars/ecs-org/ecs?style=social&color=white)](https://github.com/ecs-org/ecs/stargazers) 📜  
+9. **[ecs-org/ecs](https://github.com/ecs-org/ecs)** [![GitHub_Stars](https://img.shields.io/github/stars/ecs-org/ecs?style=social&color=white)](https://github.com/ecs-org/ecs/stargazers) 📜  
    Open-source system supporting institutional Ethics Committee workflows, clinical trial protocol submissions, and regulatory approval tracking.
 
 ---
